@@ -14,8 +14,8 @@ Esta é uma aplicação simples desenvolvida em JavaScript para auxiliar jogador
 1. Clone o repositório para o seu ambiente local.
 
 ```bash
-git clone [https://github.com/Carloseduardomelo/Calculadora-de-partidas-Rankeadas.git](https://github.com/Carloseduardomelo/Calculadora-de-partidas-Rankeadas.git)```
-
+git clone [https://github.com/Carloseduardomelo/Calculadora-de-partidas-Rankeadas.git](https://github.com/Carloseduardomelo/Calculadora-de-partidas-Rankeadas.git)
+```
 
 2. Abra o arquivo `calculadora.js` em um navegador web compatível.
 
